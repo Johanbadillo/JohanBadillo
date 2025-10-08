@@ -43,6 +43,7 @@
 
 <h3 align="left">Skills:</h3>
 <div align="center">
+  &emsp;
   <a href="https://www.linux.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="27"/>
   </a>
