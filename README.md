@@ -3,7 +3,9 @@
 <div align="center">
 <p>Software Developer</p>
 </div>
-
+<h4 align="center">
+<img src="./profile-3d-contrib/frases.svg" alt="" />
+</h4>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JohanBadillo&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=45%2C021826%2C5D14DB" alt="GitHub Streak"/>
 </div>
@@ -42,32 +44,55 @@
 >You can contact me more easily by _WhatsApp_.
 
 <h3 align="left">Skills:</h3>
-<div align="center">
-  &emsp;
-  <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="27"/>
-  </a>
-  &emsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="27"/>
-  </a>
-  &emsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30"/>
-  </a>
-  &emsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="27"/>
-  </a>
-    &emsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>
-  </a>
-  &emsp;
-  <a href="https://www.json.org/json-es.html" target="_blank" rel="noreferrer">
-    <img src="https://www.json.org/img/json160.gif" alt="JSON" width="27"/>
-  </a>
-</div>
+<table align="center" cellpadding="10">  
+    <tr>  
+      <th align="left">🌐 Front-End</th>  
+      <td align="center">  
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">  
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>  
+        </a>  
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">  
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>  
+        </a>  
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>  
+        </a> 
+      </td>  
+    </tr>  
+    <tr>  
+      <th align="left">💻 Back-End</th>  
+      <td align="center">  
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">  
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>  
+        </a>  
+        <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">  
+          <img src="https://www.json.org/img/json160.gif" alt="JSON" width="40"/>  
+        </a>  
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">  
+          <img src="https://cp.beget.com/shared/6ayu2lMsV1DpkfCrePd2HEMWvsKDBY-c/logo_nodejs2x.png.webp" alt="Node.js" width="40"/>  
+        </a>          
+      </td>  
+    </tr>  
+    <tr>  
+      <th align="left">💾 Databases</th>  
+      <td align="center">  
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
+          <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="42"/>  
+        </a>  
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
+          <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" alt="MongoDB" width="42"/>  
+        </a>  
+      </td>  
+    </tr>  
+    <tr>  
+      <th align="left">🎨 UI/UX & Design</th>  
+      <td align="center">  
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">  
+          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>  
+        </a>  
+      </td>  
+    </tr>  
+  </table>  
 
 <br>
 
