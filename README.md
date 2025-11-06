@@ -111,7 +111,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Johanbadillo/github-profile-3d-contrib">
+  <a href="https://github.com/Johanbadillo">
     <img src="./profile-3d-contrib/profile-night-view.svg" alt="Github Contrib" width="900">
   </a>
 </div>
