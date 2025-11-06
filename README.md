@@ -96,9 +96,6 @@
 
 <br>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johanbadillo&show_icons=true&locale=en&layout=donut&theme=radical" alt="Most Used Languages"/>
-</div>
 
 <br>
 
