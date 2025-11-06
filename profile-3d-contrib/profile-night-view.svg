@@ -10,7 +10,7 @@
 stroke-width: 4px;
 stroke: rgba(100, 178, 69, 0.98);
 fill: #00913f;
-fill-opacity: 0.8;
+fill-opacity: 0.75;
 }
 .cont-top-0 { fill: rgb(70, 25, 130); }
 .cont-left-0 { fill: rgb(60, 22, 115); }
