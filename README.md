@@ -11,7 +11,7 @@
 <br>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=JohanBadillo&label=Profile%20Views&color=845FB3&style=flat" alt="Profile Views" height="27" width="127"/>
+  <img src="https://komarev.com/ghpvc/?username=JohanBadillo&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" height="27" width="127"/>
 </div>
 
 >[!NOTE]
@@ -85,6 +85,11 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=johanbadillo&theme=nord" alt="Github Trophys"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura" alt="Github Trophys"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Github Contrib" width="900">
   </a>
 </div>
