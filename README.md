@@ -68,9 +68,12 @@
         <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">  
           <img src="https://www.json.org/img/json160.gif" alt="JSON" width="40"/>  
         </a>  
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">  
-          <img src="https://cp.beget.com/shared/6ayu2lMsV1DpkfCrePd2HEMWvsKDBY-c/logo_nodejs2x.png.webp" alt="Node.js" width="40"/>  
-        </a>          
+        <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">  
+          <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" width="40"/>  
+        </a>
+        <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">  
+          <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="Spring Boot" width="70"/>  
+        </a>
       </td>  
     </tr>  
     <tr>  
